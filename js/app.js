@@ -4,7 +4,7 @@ const app = new Vue(
         data: {
             titolo: 'Lama Portfolio',
             alt: 'Lama logo',
-            src: '../lama.PNG',
+            src: 'lama.PNG',
             logo: 'logo',
             link: 'https://lama-homepage.netlify.app/',
             titleClass: 'main-title',
